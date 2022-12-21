@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tushar5588](https://github.com/tushar5588)
+- 👨‍💻 All of my projects are available at [https://github.com/saurabhgkp](https://github.com/saurabhgkp)
 
 - 💬 Ask me about **react, node and javascript**
 
-- 📫 How to reach me **tusharmunnu@gmail.com**
+- 📫 How to reach me **ssgkp.sngh@gmail.com**
 
 - ⚡ Fun fact **Am a psychopath**
 

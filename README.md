@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhgkp](https://github.com/saurabhgkp)
 
-- 💬 Ask me about **react, react-three-fiber, javascript,Stripe and  node**
+- 💬 Ask me about **react, react-three-fiber, typescript, javascript,Stripe,OOPs, SOLID principle and  node**
 
 - 📫 How to reach me **ssgkp.singh@gmail.com**
 

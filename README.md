@@ -109,19 +109,19 @@
 <a href="https://linkedin.com/in/saurabhgkp">💼 LinkedIn</a> • 
 <a href="https://saurabh.03no.com">🌍 Portfolio</a>
 </p>
+
 <details open> 
- <!--    
+ 
  <summary><h2>📘 CERTIFICATIONS</h2></summary>
   <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://www.credly.com/badges/29fb1bd5-42bd-4234-813a-51185b4649cc/public_url">
+    <img width="278" height="250" src="https://images.credly.com/size/340x340/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png" alt="readme-typing-svg"></a>
+     <a href="https://www.credly.com/badges/66993461-010a-4bc5-827c-094748306fa4/public_url">
+    <img width="278" height="250" src="https://images.credly.com/size/340x340/images/75208396-7fbe-437e-8a42-46277d642697/image.png"></a>
+     <a href="https://www.credly.com/badges/1852d990-fd55-4caf-bb6e-6046cbfd0d2d/public_url">
+    <img width="278" height="250" src="https://images.credly.com/size/340x340/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" alt="readme-typing-svg"></a>
     </p>
 </details>
---->
 
 ## 🔗 Cloud [🔝](#menu)
 
